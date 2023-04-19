@@ -56,4 +56,4 @@ ViSCAXA is open-source software released under the GNU General Public License v3
 
 ## Author & Contact
 
-ViSCAXA was created by Jahir Medina. For any questions or inquiries, please contact us at contact+viscaxa@jahirmedina.com.
+ViSCAXA was created by Jahir Medina. For any questions or inquiries, please contact me at contact+viscaxa@jahirmedina.com.

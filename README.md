@@ -30,11 +30,11 @@ To build and run the project, follow the instructions in the respective subdirec
 ## Acknowledgements
 We would like to thank the open source community for their contributions to ViSCAXA.
 
-1. @johndoe: A software engineer with a passion for open-source development. Currently working on a new JavaScript library for data visualization.
-2. @janedoe: A front-end developer who specializes in responsive web design. Active contributor to several popular CSS frameworks.
-3. @sarahsmith: A data scientist who enjoys working on machine learning projects. Currently developing an NLP model for sentiment analysis.
-4. @brianlee: A full-stack developer with expertise in Ruby on Rails and React. Passionate about building scalable and efficient web applications.
-5. @katejones: An iOS developer who enjoys creating intuitive and user-friendly mobile applications. Currently working on a new social media platform for photographers.
+1. [John Doe](https://github.com/johndoe) - A software engineer with a passion for open-source development. Currently working on a new JavaScript library for data visualization.
+2. [Jane Doe](https://github.com/janedoe) - A front-end developer who specializes in responsive web design. Active contributor to several popular CSS frameworks.
+3. [Sarah Smith](https://github.com/sarahsmith) - A data scientist who enjoys working on machine learning projects. Currently developing an NLP model for sentiment analysis.
+4. [Brian Lee](https://github.com/brianlee) - A full-stack developer with expertise in Ruby on Rails and React. Passionate about building scalable and efficient web applications.
+5. [Kate Jones](https://github.com/katejones) - An iOS developer who enjoys creating intuitive and user-friendly mobile applications. Currently working on a new social media platform for photographers.
 
 
 Also I would like to thank the following resources for their invaluable help in the development of ViSCAXA:

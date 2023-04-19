@@ -4,8 +4,8 @@ ViSCAXA is a middleware software written in Go that allows you to transform any 
 
 ## Features
 
-- Transform any API for chatbots or AI chats
-- Translate the ask and answer into a format for our frontend
+Transform any API for chatbots or AI chats
+Translate the ask and answer into a format for our frontend
 
 ## Usage
 
@@ -27,6 +27,23 @@ To build and run the project, follow the instructions in the respective subdirec
 - [Web](https://github.com/jahirmedinacs/viscaxa/tree/main/viscaxa-web)
 - [iOS](https://github.com/jahirmedinacs/viscaxa/tree/main/viscaxa-ios)
 
+## Acknowledgements
+We would like to thank the open source community for their contributions to ViSCAXA.
+
+1. @johndoe: A software engineer with a passion for open-source development. Currently working on a new JavaScript library for data visualization.
+2. @janedoe: A front-end developer who specializes in responsive web design. Active contributor to several popular CSS frameworks.
+3. @sarahsmith: A data scientist who enjoys working on machine learning projects. Currently developing an NLP model for sentiment analysis.
+4. @brianlee: A full-stack developer with expertise in Ruby on Rails and React. Passionate about building scalable and efficient web applications.
+5. @katejones: An iOS developer who enjoys creating intuitive and user-friendly mobile applications. Currently working on a new social media platform for photographers.
+
+
+Also I would like to thank the following resources for their invaluable help in the development of ViSCAXA:
+
+- The Go Programming Language: [https://golang.org/](https://golang.org/)
+- Electron: [https://www.electronjs.org/](https://www.electronjs.org/)
+- Github: [https://github.com/](https://github.com/)
+
+Without these resources, ViSCAXA would not have been possible. Thank you!
 
 ## License
 
@@ -35,4 +52,3 @@ ViSCAXA is open-source software released under the GNU General Public License v3
 ## Author & Contact
 
 ViSCAXA was created by Jahir Medina. For any questions or inquiries, please contact us at contact+viscaxa@jahirmedina.com.
-

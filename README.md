@@ -3,7 +3,7 @@
 ViSCAXA is a middleware software written in Go that allows you to transform any API for chatbots or AI chats, where there is interaction by messages, and translate the ask and answer into a format that can be used under our frontend (ViSCAXA Android - ViSCAXA Web - ViSCAXA iOS).
 
 <p align="center">
-  <img src="ViZCAXA.png" alt="ViSCAXA mascot / logo">
+  <img src="ViZCAXA.png" alt="ViSCAXA mascot / logo" width="20%">
 </p>
 
 
